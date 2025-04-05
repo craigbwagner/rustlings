@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-traits1
+traits2
 
 options1
 options3
@@ -10,3 +10,4 @@ errors3
 errors4
 generics1
 generics2
+traits1
