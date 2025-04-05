@@ -1,9 +1,12 @@
 DON'T EDIT THIS FILE!
 
-generics1
+traits1
 
 options1
 options3
 errors1
 errors2
 errors3
+errors4
+generics1
+generics2
